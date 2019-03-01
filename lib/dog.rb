@@ -5,4 +5,4 @@ class Dog
   end
   
   def name
-    puts name
+    p
